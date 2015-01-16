@@ -22,7 +22,7 @@
 
 /* SITE */
 
-	Last update: 2014/03/19
+	Last update: 2015/01/16
 	Language: Español
 	Standars: HTML5, CSS3, JavaScript, PHP
 	Components: Responsive Design, jQuery, Stylus - nib, MySQL
