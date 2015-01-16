@@ -1,0 +1,30 @@
+/* Servicio Orion | Gasolineria, Pemex, Comercializacion de Combustibles - http://servicioorion.com.mx/ */
+
+/* TEAM */
+
+	Front end & UX Designer: Argenis Palacios A.K.A. Dr. Lfnt
+	Contact: Dr.Lfnt [at] gmail.com
+	Twitter: @DrLfnt
+	From: Mexico city, Mexico
+
+	Studio: DisainCo
+	Contact: contacto [at] disain.co
+	Url: http://disain.co/
+	Twitter: @DisainCo
+	From: Mexico city, Mexico
+
+/* THANKS */
+
+	Back end: Victor Manuel Rojano Lopez
+	Contact: computacionejecutiva [at] hotmail.com
+	Twitter: @comesavr
+	From: Mexico city, Mexico
+
+/* SITE */
+
+	Last update: 2014/03/19
+	Language: Español
+	Standars: HTML5, CSS3, JavaScript, PHP
+	Components: Responsive Design, jQuery, Stylus - nib, MySQL
+	Software: OS X Mountain Lion, Windows 7, Windows 8, Sublime Text 2, CSS Edit, Filezilla, Adobe Creative Cloud (Ilustrator CC - Photoshop CC - Dreamweaver CC - Edge CC)
+	Resources: normalize.css | modernizr.js | bootstrap.css
